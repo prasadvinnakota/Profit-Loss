@@ -1,0 +1,39 @@
+body
+{
+    text-align: center;
+    background-color: cornsilk;
+
+}
+
+input, label
+{
+    display: block;
+    margin:auto;
+    padding:0.5rem;
+    border-radius: 0.5rem;
+    color: brown;
+
+}
+
+input
+{
+    width:300px;
+}
+
+button
+{
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin:0.6rem;
+    border:2px solid brown;
+    background-color: brown;
+    color: cornsilk;
+
+
+}
+
+h1
+{
+   color: brown;
+
+}
